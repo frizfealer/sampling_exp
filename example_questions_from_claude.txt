@@ -1,0 +1,20 @@
+# Multi-step Math Word Problems
+If John has twice as many marbles as Mary, and Mary has three more marbles than Peter who has 7 marbles, how many marbles does John have?
+# Temporal Reasoning
+If I have a meeting that starts at 10:30 AM and lasts for 2 hours and 45 minutes, and I need 30 minutes to drive to my next appointment, what is the earliest time I can arrive at my next appointment?
+# Negation and Double Negatives
+If it's not true that all non-red cars in the parking lot are not expensive, what do we know about the cars in the parking lot?
+# Logical Sequences with Conditions
+In a game, red beats blue, blue beats green, and green beats yellow. If player A has a red card and player B has a yellow card, who wins? What if player B also gets a blue card and can choose which to play?
+# Size Comparisons with Indirection
+Tom is taller than Mary. Mary is shorter than John but taller than Peter. Sarah is taller than John. Who is the shortest person?
+# Probability with Dependencies
+I have a bag with 3 red marbles and 2 blue marbles. If I draw two marbles without replacement, what's the probability that both are the same color?
+# Causal Reasoning
+If turning the key doesn't start the car, and the car's battery is new, and all lights work, what might be the most likely problem?
+# Conservation Problems
+If I pour water from a tall thin glass into a short wide glass, and the water appears to be at a lower height, is there less water now?
+# Recursive Relationships
+Alice is Bob's mother's father's only daughter. What is the relationship between Alice and Bob?
+# Category Logic
+All A are B. Some B are C. Some C are D. Can we conclude that some A are D?
